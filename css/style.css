@@ -1,0 +1,40 @@
+label,
+th {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.myInput {
+    position: relative;
+}
+
+.myIcon,
+.myIconMarked {
+    font-size: 28px;
+    /* background-color: green; */
+    position: absolute;
+    top: 2;
+    right: 4;
+    color: rgba(240, 52, 52, 0.8);
+    opacity: 0;
+}
+
+
+.myIconMarked {
+    color: rgba(35, 212, 0, 0.8);
+
+}
+
+th {
+    background-color: #e1d0c7 !important;
+    padding: 20px 0px !important;
+    color: rgb(43, 45, 43) !important;
+}
+
+td {
+    color: rgb(43, 45, 43) !important;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px 0px !important;
+
+}
